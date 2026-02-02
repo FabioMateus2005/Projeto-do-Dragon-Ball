@@ -18,7 +18,7 @@ Este é um projeto relacionado ao Dragon Ball. Mais detalhes serão adicionados 
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone <https://github.com/FabioMateus2005/Projeto-do-Dragon-Ball>
    ```
 2. Navegue até o diretório do projeto:
    ```bash
@@ -36,4 +36,5 @@ Este é um projeto relacionado ao Dragon Ball. Mais detalhes serão adicionados 
 ## Licença
 
 (Adicione informações sobre a licença do seu projeto aqui.)
+
 
